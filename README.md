@@ -1,2 +1,2 @@
 # platzifrontend-marvel
-Pueden ver el demo aquí: http://toniodis.github.io/platzifrontend-marvel/ 8)
+Pueden ver el demo aquí: http://toniodis.github.io/marvel-card-game/ 8)
